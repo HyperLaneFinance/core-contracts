@@ -1,0 +1,83 @@
+.multigridRoot {
+  flex-grow: 0;
+  max-width: 33.333333%;
+  flex-basis: 33.333333%;
+}
+
+.jss357 {
+  border: 2px solid #ffffff;
+  margin: 20px auto;
+  padding: 25px;
+  overflow: hidden;
+  position: relative;
+  max-width: 275px;
+  min-height: 330px;
+  text-align: left;
+  border-radius: 5px;
+}
+
+.jss362 {
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+
+.jss363 {
+  color: #c8c8c8;
+  font-size: 13px;
+  line-height: 1.8;
+}
+
+.jss367 {
+  left: 0;
+  width: 100%;
+  bottom: 0;
+  padding: 20px;
+  position: absolute;
+}
+
+.a {
+  color: #2196f3;
+  text-decoration: none;
+  padding-bottom: 3px;
+  background-color: transparent;
+}
+
+.MuiButtonBase {
+  cursor: pointer;
+  height: 36px;
+  margin: 3px;
+  padding: 12px 12px;
+  position: relative;
+  font-size: 14px;
+  min-width: auto;
+  min-height: auto;
+  text-align: center;
+  font-weight: bold;
+  line-height: 1.42857143;
+  white-space: nowrap;
+  border-radius: 5px;
+  letter-spacing: 0;
+  text-transform: none;
+  vertical-align: middle;
+  background-color: transparent;
+  width: 100%;
+  margin: 0;
+  border: 1px solid #ffffff;
+  height: 40px;
+  font-size: 1rem;
+  background-color: #ffffff;
+}
+
+@media only screen and (max-width: 600px) {
+  .multigridRoot {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+
+a {
+  color: white;
+}
